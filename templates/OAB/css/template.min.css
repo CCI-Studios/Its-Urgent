@@ -750,7 +750,7 @@ div .joinButton {
 }
 
 .home #body > div {
-  background-image: url("templates/OAB/images/bg_bodyHome2.jpg");
+  background-image: url('../images/bg_bodyHome2.jpg');
 }
 
 #block-logos {
