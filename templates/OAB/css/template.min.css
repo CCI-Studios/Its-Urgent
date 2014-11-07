@@ -353,7 +353,7 @@ textarea {
   overflow: auto;
   /* 1 */
   vertical-align: top;
-  /* 2 */ 
+  /* 2 */
   width: 800px;
   height: 500px;}
 
@@ -744,10 +744,10 @@ div .joinButton {
 }
 
 
-
-#body > div > div {
+/* for when the button2 block/survey link is below the menu */
+/*#body > div > div {
   padding-top: 165px;
-}
+}*/
 
 .home #body > div {
   background-image: url('../images/bg_bodyHome2.jpg');
